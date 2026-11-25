@@ -1,4 +1,4 @@
-# QQ 协议版本数据
+1# QQ 协议版本数据
 
 自动从腾讯应用宝元数据接口发现最新的 Android QQ 官方安装包，校验 APK，
 用 [MrXiaoM/Eden](https://github.com/MrXiaoM/Eden) 提取协议数据，并提交生成的 JSON。
